@@ -1,9 +1,5 @@
- ### Team member
-  <ul>
-  <li>Shubham Kumar </li>
-     
-  <li>Ankit Jha</li>
-  </ul>
+ ### Labour Chowk 
+ 
 Tech Stack used is 
 
 - HTML
