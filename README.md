@@ -19,4 +19,6 @@ Tech Stack used is
 - AUTHENTICATION
 
 
+<h3>HOME PAGE</h3>
 
+![image](https://github.com/ShubhamKumar5802/labourchowk/blob/main/home.jpeg)
