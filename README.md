@@ -1,6 +1,6 @@
  ### Team member
   <ul>
-  <li>Shubham Kumar <strong>(Team leader)</strong></li>
+  <li>Shubham Kumar </li>
      
   <li>Ankit Jha</li>
   </ul>
