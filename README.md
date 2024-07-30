@@ -19,7 +19,8 @@ Tech Stack used is
 
 
 <h3>HOME PAGE</h3>
-![home](https://github.com/user-attachments/assets/3077a6a0-fd49-4434-a68f-4fed4f2fb5b6)
+
+![home](https://github.com/user-attachments/assets/7f649392-1a3e-4079-8c25-a462d043f8ec)
 
 ![dashboarduser](https://github.com/user-attachments/assets/c2b8d864-490d-4400-8b06-79654e81bf9a)
 
