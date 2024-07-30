@@ -19,7 +19,7 @@ Tech Stack used is
 
 
 <h3>HOME PAGE</h3>
+![home](https://github.com/user-attachments/assets/3077a6a0-fd49-4434-a68f-4fed4f2fb5b6)
 
-![image](https://github.com/ShubhamKumar5802/labourchowk/blob/main/home.jpeg)
+![dashboarduser](https://github.com/user-attachments/assets/c2b8d864-490d-4400-8b06-79654e81bf9a)
 
-![image](https://github.com/ShubhamKumar5802/labourchowk/blob/main/dashboarduser.jpeg)
